@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- miju_branch 에서 추가한 주석 -->
-	<!-- miju_branch 에서 추가한 주석 2222 -->
-	<!-- ~~miju branch 지은이꺼~~ -->
+	<!-- index_MIJU.jsp 에서 추가 된 주석  -->
+	<!-- 미준디여 -->
 </body>
 </html>
